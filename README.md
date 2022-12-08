@@ -7,5 +7,6 @@ A palindrome is a string that reads the same forwards and backwards, like x, pop
 * b u b b a s e e s a b a n a n a
 
 Find the minimum number of palindromes that make up the given string
+
 Input format: first line is a single number n, the following line consists of length n string (character array) that is the string A[1..n]
 
