@@ -1,5 +1,5 @@
 # Minimum-Palindromes
-COSC 3320 HW2 Programming Challenge, Professor Wu
+COSC 3320 HW5 Programming Challenge, Professor Wu
 
 A palindrome is a string that reads the same forwards and backwards, like x, pop, noon, redivider. Any string can be broken into sequence of palindromes. For example, the string bubbaseesabanana (‘bubba sees a banana’) can be broken into palindromes in several different ways:
 * bub baseesab anana
